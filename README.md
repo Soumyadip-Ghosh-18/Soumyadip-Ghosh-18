@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soumyadip-Ghosh-18
-- 👀 I’m interested in Web Developing
+- 👀 I’m interested in AI Developing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Developing
 - 📫 My mail id is ...
